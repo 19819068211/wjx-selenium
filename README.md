@@ -22,7 +22,9 @@
 
 项目中的chomedriver可能与您的chrome版本不同，大家可以去这里下载自己chrome版本的驱动器    https://registry.npmmirror.com/binary.html?path=chromedriver/
 
-查找chrome方法不便贴出，大家可以在搜索引擎中找到答案
+查找chrome版本方法不便贴出，大家可以在搜索引擎中找到答案
+
+或者，用其他的浏览器驱动，记得修改程序，不再赘述
 
 注意：chromedriver一定要与wjx.py放在同一个文件夹（目录）内
 
